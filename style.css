@@ -1,0 +1,97 @@
+.navbar{
+    width: 100%;
+    height: 10vh;
+    background: rgb(27, 123, 20);
+}
+#nav-nav{
+    width: 40%;
+    color: white;
+    margin-left: 800px;
+}
+.home{
+    height: 90vh;
+    width: 100%;
+    margin-top: 60px;
+    background: url(images/qq.bmp);
+}
+.text-box{
+    text-align: center;
+    height: 300px;
+    width: 390px;
+    position: relative;
+    margin-left: 80px;
+    background: green;
+}
+.btn-get-started{
+    width: 200px;
+    border-radius: 80px;
+    background: #fff;
+    color: green;
+}
+.about{
+    margin-top: 100px;
+    width: 80%;
+    height: 80vh;
+    margin-left: 80px;
+}
+.btn-read{
+   width: 190px;
+    border-radius: 80px;
+    background: green;
+    color: #fff;
+}
+.services{
+    width: 80%;
+    height: 70vh;
+    margin-left: 80px;
+}
+ul li{
+    list-style: none;
+}
+.contact{
+    width: 80%;
+    height: 80vh;
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+.btn-send{
+    width: 200px;
+    background-color: green;
+    color: #fff;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.info{
+    margin-left: 28px;
+    width: 28px;
+    height: 35px;
+}
+.info-1{
+    margin-left: 50px;
+        width: 30px;
+        height: 35px;
+        
+}
+.info-2{
+    margin-left: 25px;
+}
+footer{
+    background: green;
+    height: 100px;
+    color: floralwhite;
+   width: 100%;
+}
+.info-3{
+    float: left;
+}
+.icon{
+    margin-top: -55px;
+    margin-left: 1050px;
+}
+.icon ul li{
+    list-style: none;
+    padding: 1px 10px;
+    float: left;
+    text-align: right;
+}
